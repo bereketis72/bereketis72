@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left">
 
 
-<a href="https://instagram.com/bereket_is" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bereket_is" height="30" width="40" /></a>
+<a href="https://www.instagram.com/seyid_tori72/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bereket_is" height="30" width="40" /></a>
 </p>
 
 <br/>
