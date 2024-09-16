@@ -1,7 +1,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Bereket
 ======================================================================================================================================
-https://github.com/user-attachments/assets/043840a6-e26e-4b92-a75c-bb023901fafd
+![296352797-acb457e2-ea95-4712-9521-1349020d5990](https://github.com/user-attachments/assets/043840a6-e26e-4b92-a75c-bb023901fafd)
 <br/>
 
 * ✉️  You can contact me at [bereketis54@gmail.com](mailto:bereketis54@gmail.com)
