@@ -10,26 +10,32 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 🌐Socials
 <p align="left">
-<p><a href="https://www.instagram.com/seyid_tori72/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bereket_is" height="30" width="40" /></a></p>
-<p><a href="https://www.linkedin.com/in/bereket-is/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Bereket İş" height="30" width="40" /></a></p>
+<p align="left">
+  <a href="https://www.instagram.com/seyid_tori72/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30" style="margin-right: 12px;" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/bereket-is/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" width="40" height="30" style="margin-right: 12px;" />
+  </a>
+</p>
+
 
 
 <br/>
 
 # 💻Tech Stack
-<style>
-  .tech-icon { margin-right: 10px; }
-</style>
-
-<p align="center">
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
-    <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 12px;"/>
   </a>
+
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
-    <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin-right: 12px;"/>
   </a>
+
   <a href="https://www.java.com/" target="_blank">
-    <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
 </p>
 
