@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30" style="margin-right: 12px;" />
   </a>
 
-  <a href="https://www.linkedin.com/in/bereket-is/" target="_blank">
+  <a href="https://www.linkedin.com/in/bereket-i%C5%9F-161387314/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" width="40" height="30" style="margin-right: 12px;" />
   </a>
 </p>
