@@ -16,27 +16,27 @@
 
 <br/>
 
-## 👨‍💻 Hakkımda / About Me
+## Hakkımda / About Me
 
-- 🔭 Şu anda **Veri (Data)** ve **Yazılım Geliştirme** alanlarına odaklanıyorum.
-- 🌱 Algoritmalar, veri analizi ve yeni teknolojiler üzerine kendimi sürekli geliştiriyorum.
-- ⚡ Yetkinlikler: Veri odaklı problem çözme, temiz kod mimarisi ve analitik düşünme.
+- Şu anda Veri (Data) ve Yazılım Geliştirme çalışmalarına odaklanıyorum.
+- Algoritmalar, veri analizi ve yeni teknolojiler üzerine kendimi sürekli geliştiriyorum.
+- Yetkinlikler: Veri odaklı problem çözme, temiz kod mimarisi ve analitik düşünme.
 
 <br/>
 
-## 🛠️ Teknoloji Yığını / Tech Stack
+## Teknoloji Yığını / Tech Stack
 
-<p align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Data" />
-</p>
+</div>
 
 <br/>
 
-## 📊 GitHub İstatistikleri / Stats
+## GitHub İstatistikleri / Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bereketis72&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
@@ -49,6 +49,5 @@
 <br/>
 
 <div align="center">
-  <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
