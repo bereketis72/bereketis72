@@ -1,73 +1,54 @@
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Bereket
-======================================================================================================================================
-![296352797-acb457e2-ea95-4712-9521-1349020d5990](https://github.com/user-attachments/assets/043840a6-e26e-4b92-a75c-bb023901fafd)
-<br/>
-
-* ✉️  You can contact me at [bereketis54@gmail.com](mailto:bereketis54@gmail.com)
+<div align="center">
+  <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/> I'm Bereket</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Software+Developer;Data+Enthusiast;Always+Learning" alt="Typing SVG" />
+</div>
 
 <br/>
 
-## 🌐Socials
-<p align="left">
-<p align="left">
- 
-  <a href="https://www.linkedin.com/in/bereket-i%C5%9F-161387314/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" width="40" height="30" style="margin-right: 12px;" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/bereket-iş-161387314/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:bereketis54@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+## 👨‍💻 Hakkımda / About Me
+
+- 🔭 Şu anda **Veri (Data)** ve **Yazılım Geliştirme** alanlarına odaklanıyorum.
+- 🌱 Algoritmalar, veri analizi ve yeni teknolojiler üzerine kendimi sürekli geliştiriyorum.
+- ⚡ Yetkinlikler: Veri odaklı problem çözme, temiz kod mimarisi ve analitik düşünme.
+
+<br/>
+
+## 🛠️ Teknoloji Yığını / Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Data" />
 </p>
 
-
-
 <br/>
-# 💻 Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-        <br />Python
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-        <br />C#
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.java.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-        <br />Java
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
-        <br />C
-      </a>
-    </td>
-  
-   
-  </tr>
-</table>
+## 📊 GitHub İstatistikleri / Stats
 
-
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bereketis72&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereketis72&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereketis72&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 <br/>
 
-# 📊GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=bereketis72&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bereketis72&theme=radical&hide_border=true)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bereketis72&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-<br/>
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+<div align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Quote" />
+</div>
